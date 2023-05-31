@@ -1,0 +1,2 @@
+# stablebot
+Discord Bot basic
